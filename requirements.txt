@@ -1,4 +1,4 @@
-fastai=2.7.19
+fastai
 plotly
 streamlit
-pathlib
+
